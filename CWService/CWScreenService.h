@@ -4,7 +4,7 @@
 
 #define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
 #define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
-#define SCREEN_HEIGTH [UIScreen mainScreen].bounds.size.heigth
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
 
 
 
